@@ -1,0 +1,79 @@
+.sniqsys2-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .sniqsys2-navlink {
+    display: contents;
+  }
+  .sniqsys2-sniqsys2 {
+    width: 100%;
+    height: 900px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .sniqsys2-discover {
+    top: 313px;
+    left: 30px;
+    width: 732px;
+    height: 412px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .sniqsys2-text {
+    color: rgba(38, 40, 99, 1);
+    width: 732px;
+    height: auto;
+    position: absolute;
+    font-size: 60px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Acme;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sniqsys2-text1 {
+    color: rgba(38, 40, 99, 1);
+  }
+  .sniqsys2-text3 {
+    top: 242px;
+    color: rgba(0, 0, 0, 1);
+    width: 712px;
+    height: auto;
+    position: absolute;
+    font-size: 27px;
+    font-style: Regular;
+    text-align: justified;
+    font-family: Acme;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sniqsys2-sniqsyslogo120x1201 {
+    top: 50px;
+    left: 30px;
+    width: 200px;
+    height: 163px;
+    position: absolute;
+  }
+  .sniqsys2-sniqsys22 {
+    top: 200px;
+    left: 800px;
+    width: 590px;
+    height: 550px;
+    position: absolute;
+  }
+  

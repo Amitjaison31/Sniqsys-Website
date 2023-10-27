@@ -1,0 +1,131 @@
+.sniqsys3-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .sniqsys3-sniqsys3 {
+    width: 100%;
+    height: 900px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .sniqsys3-explore {
+    border-radius: 30px;
+    top: 270px;
+    left: 760px;
+    width: 630px;
+    height: 500px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(38, 40, 99, 1);
+  }
+  .sniqsys3-text {
+    top: 67px;
+    left: 57px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 35px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Acme;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sniqsys3-text02 {
+    top: 176px;
+    left: 57px;
+    color: rgba(255, 255, 255, 1);
+    width: 516px;
+    height: auto;
+    position: absolute;
+    font-size: 27px;
+    font-style: Regular;
+    text-align: justified;
+    font-family: Acme;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sniqsys3-offline {
+    top: 248px;
+    left: 30px;
+    width: 732px;
+    height: 520.9998779296875px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .sniqsys3-text04 {
+    top: 409.66387939453125px;
+    color: rgba(0, 0, 0, 0.5);
+    width: 712px;
+    height: auto;
+    position: absolute;
+    font-size: 27px;
+    font-style: Regular;
+    text-align: justified;
+    font-family: Acme;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sniqsys3-text06 {
+    top: 334px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 27px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Acme;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sniqsys3-text08 {
+    color: #262863;
+    width: 732px;
+    height: auto;
+    position: absolute;
+    font-size: 60px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Acme;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sniqsys3-text09 {
+    color: rgba(0, 0, 0, 1);
+  }
+  .sniqsys3-text10 {
+    color: rgba(38, 40, 99, 1);
+  }
+  .sniqsys3-text11 {
+    color: rgba(0, 0, 0, 1);
+  }
+  .sniqsys3-sniqsyslogo120x1201 {
+    top: 50px;
+    left: 30px;
+    width: 200px;
+    height: 163px;
+    position: absolute;
+  }
+  

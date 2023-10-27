@@ -1,0 +1,309 @@
+.sniqsys6-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .sniqsys6-sniqsys6 {
+    width: 100%;
+    height: 900px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .sniqsys6-sniqsyslogo120x1201 {
+    top: 50px;
+    left: 30px;
+    width: 200px;
+    height: 163px;
+    position: absolute;
+  }
+  .sniqsys6-text {
+    top: 50px;
+    left: 360px;
+    color: rgb(0, 0, 0);
+    width: 720px;
+    height: auto;
+    position: absolute;
+    font-size: 60px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Acme;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sniqsys6-text01 {
+    color: rgba(38, 40, 99, 1);
+  }
+  .sniqsys6-text02 {
+    color: rgba(0, 0, 0, 1);
+  }
+  .sniqsys6-text03 {
+    color: rgba(38, 40, 99, 1);
+  }
+  .sniqsys6-text08 {
+    top: 298px;
+    left: 438px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 27px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Acme;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sniqsys6-e-commerce {
+    border-radius: 30px;
+    top: 462px;
+    left: 100px;
+    width: 300px;
+    height: 80px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(38, 40, 99, 1);
+  }
+  .sniqsys6-text13 {
+    top: 21px;
+    left: 76px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Acme;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sniqsys6-travel-tourism {
+    border-radius: 30px;
+    top: 592px;
+    left: 100px;
+    width: 300px;
+    height: 80px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(38, 40, 99, 1);
+  }
+  .sniqsys6-text15 {
+    top: 21px;
+    left: 49px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Acme;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sniqsys6-automotive {
+    border-radius: 30px;
+    top: 722px;
+    left: 100px;
+    width: 300px;
+    height: 80px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(38, 40, 99, 1);
+  }
+  .sniqsys6-text17 {
+    top: 21px;
+    left: 77px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Acme;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sniqsys6-finance-banking {
+    border-radius: 30px;
+    top: 592px;
+    left: 559px;
+    width: 300px;
+    height: 80px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(38, 40, 99, 1);
+  }
+  .sniqsys6-text19 {
+    top: 21px;
+    left: 39px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Acme;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sniqsys6-real-estate {
+    border-radius: 30px;
+    top: 722px;
+    left: 559px;
+    width: 300px;
+    height: 80px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(38, 40, 99, 1);
+  }
+  .sniqsys6-text21 {
+    top: 21px;
+    left: 76px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Acme;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sniqsys6-education {
+    border-radius: 30px;
+    top: 592px;
+    left: 1020px;
+    width: 300px;
+    height: 80px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(38, 40, 99, 1);
+  }
+  .sniqsys6-text23 {
+    top: 21px;
+    left: 90px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Acme;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sniqsys6-restaurant {
+    border-radius: 30px;
+    top: 722px;
+    left: 1020px;
+    width: 300px;
+    height: 80px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(38, 40, 99, 1);
+  }
+  .sniqsys6-text25 {
+    top: 21px;
+    left: 82px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Acme;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sniqsys6-healthcare {
+    border-radius: 30px;
+    top: 462px;
+    left: 560px;
+    width: 300px;
+    height: 80px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(38, 40, 99, 1);
+  }
+  .sniqsys6-text27 {
+    top: 21px;
+    left: 83px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Acme;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .sniqsys6-media {
+    border-radius: 30px;
+    top: 462px;
+    left: 1020px;
+    width: 300px;
+    height: 80px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(38, 40, 99, 1);
+  }
+  .sniqsys6-text29 {
+    top: 21px;
+    left: 113px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Acme;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  
